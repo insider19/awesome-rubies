@@ -1,6 +1,6 @@
 # awesome-rubies
 
-12A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
+1212 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
 Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
